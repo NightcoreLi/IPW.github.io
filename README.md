@@ -1,6 +1,7 @@
 # 互联网：像素战争
 本游戏纯属虚构，如有雷同纯属巧合
-## 移动版：https://nightcoreli.github.io/IPW.github.io/web-mobile/
+## 手机：https://nightcoreli.github.io/IPW.github.io/web-mobile/
+## PC：https://nightcoreli.github.io/IPW.github.io/web-desktop/
 
 ## 游戏简介
 - 你将扮演一位互联网公司的领袖，带领公司走向胜利：
